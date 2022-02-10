@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+
+title {
+  align-self: center;
+  align-content: center;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 1.25%;
+  color: yellow;
+}
+
+#map {
+  position: absolute;
+  top: 10%;
+  bottom: 0;
+  width: 100%;
+}
+
+.image-marker{
+    height: 55px;
+    width: 55px;
+}
